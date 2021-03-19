@@ -1,5 +1,5 @@
 <?php
 
-print "Welcome to next openshift!!!";
+print `ifconfig`;
 
 ?>
